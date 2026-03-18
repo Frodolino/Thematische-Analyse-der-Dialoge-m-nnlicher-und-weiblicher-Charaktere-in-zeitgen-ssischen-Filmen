@@ -1,0 +1,250 @@
+0) 0) dialog: Pretty nice up here, isn't it?
+0) 3) dialog: Nothing's going to happen. ‘This is just the opening credits. OPENING CREDITS BEGIN TO THE RIGIT OF THE BALLOOW.
+0) 4) dialog: (continued) . (podats) See over there... Lew Grade and Martin Starger present...
+0) 12) dialog: Henson again, huh? How come he's always involved?
+0) 16) dialog: Raposo's good,
+0) 21) dialog: They're both very important jobs. I know those guys Personally.
+0) 23) dialog: Sure. I call him Oswald.
+0) 26) dialog: No. But I know Lazer and Oz.
+0) 30) dialog: Yeah. Lazer.
+0) 33) dialog: ’ Henson directed it, too. Spreading ° . himself pretty thin, if y'ask me. By the time the CREDITS END, the camera has PUSHED IN to a much closer shot of the three balloonists.
+0) 36) dialog: | . . Just pull the rope. . | Fozzie yanks the rip cord and the balloon jerks into the air.
+0) 49) dialog: 1 be a spectacle -
+0) 53) dialog: Starring everybody Fozzie see And me! There'll be heroes bold There'll ba comedy And a lotta fuss That ends for us real happily
+0) 55) dialog: Starring everybody
+0) 65) dialog: Si in this movie.me and Fozzie Bear play crack Investigative
+0) 69) text: Kermit, Gonzo and Fozzie change costumes and become reporters but they are too busy singing to be aware of newsworthy events going on around them. Ae the € SONC CONTINUES, a pedestrian reading a newspaper walks Over + an open manhole cover and disappears from sight.
+0) 70) dialog: There'll be crooks and cops There'll be villainy
+0) 78) dialog: Hey Fozzle, did'ja see that! Gonzo... + get a picture of the kitty.
+0) 85) text: The kitten keeps moving and Gonzo, Fozzie and Kermit tsy to cornes it and interview it. Directly behind a jewel robbery Ls taking place. A aasked THIEF, d entirely in black, save for his red and white ped socks, steals a diamond necklace from a wealthy woman, a classy looking MATRON of about 50.
+0) 98) dialog: There'll be mystery And ca trophe
+0) 103) dialog: Starring everybody . . chowp Everybody
+0) 116) text: INT. EDITOR'S OFFICE - pay 4. Bagin on full screen matching shot of black and white photo of Xermit and Fozzie. Almost immedi tely, the Photo which is on the front page of a newspaper is ia Slammed onto a desk. The man who is doing slamming is MIKE TARKANIAN, City Editor of the Daily Chronicle, and he is livid with rage. ‘The veins in his neck stand out as he berates Kermit, Fozzie and Gonzo, who tremble in fear in front of his desk. During his tirade, Tarkanian pounds his fist on the desk for emphasis. Each impact causes the three Muppets to juma in the air.
+0) 123) text: He displays the three rival newspapers as Kermit and Potzie peek over the desk. 7 (continued) The Express..."Jewel Heist on Main Street*®. Nice bold print, isn't it?
+0) 124) dialog: Yes. It's vary easy to read.
+0) 134) dialog: Giving us concussions isn't the answer, Mr. Tarkanian. We thought identical twins working on a news- paper would make an interesting story.
+0) 136) dialog: That's because Fozzie's wearing ha: - . (to Fozzie) ' Take it off, Posz. Feerie removes his hat. , cosTINveD
+1) 0) text: Tarkanian moves swiftly from desk to desk, checking on stories in progress, very businesslike and professiona Men in shirtsleeves bang away on typewriters, working diligently, while TELETYPE MACHINES CLACK in the back- ground. Tarkanian feels a tugging at his sleave, looks down and sees Kermit.
+1) 6) dialog: Just pay our way to Lendon so we can talk to Lady Holiday the woman who wes robbed. That‘s all you have to do.
+1) 14) dialog: Aw, have a heart. We're broke. We spent all cur money on that opening production number. .
+1) 19) dialog: Itm Kermit.
+1) 30) dialog: No...-you're the ons with fur. Bears have fur. There are no furry frogs.
+1) 32) dialog: I guess they don't serve food in ninth class. Fo2z2IE Twelve bucks and we don't even get a meal?
+1) 38) dialog: No beverages either. : Forzre : And we're supposed to just go long with it like a bunch of - budgies? Abudgie in acage chirps. angrily. FOzZzIz (continued) No offense.
+1) 42) dialog: Hey! Somebody's coming. POzzIE Maybe they're bringing hamburgers. Footsteps approach. It is a FLIGHT STEWARD.
+1) 44) dialog: Oh, great. The plane's landing. The steward opens a cargo door. Light pours into the hold.
+1) 53) text: The birdwatcher quickly focuses on three specks hurtling toward the earth from a dizzying height as the SOUND oF A JET DIMINISHES in the distance. ExT. ENGLISH COUNTRYSIDE - DAY. , 10. Within a few seconds, three cages, containing Kermit, Fozzie and-Gonzo, splash down in the pond, spraying water on the birdwatcher, who takes the binoculars from his eyes. The three Muppets, bobbing up and down on top of the water, peer at the man, and think they recognize him, but can't be sure. In truth, he's JIM HENSON, in his motion picture debut, looking a littl lly in tweed ynickers. Kermit, Fozzie and Gonzo stare at him dncredulously,.then-look.at each other. quigzically, . then back at Jim.
+1) 56) dialog: Uh...no. We don't know anybody around here. We're trying to get to London to interview Lady Holiday. Sea, we're crack investigative reporters on assignment from the Daily Chronicle and we're trying to find out who stole Lady Holiday's jewels. Well, actually we're not postpicaly on assignment because Tay an fired us... Mr. Tarkanian, he's our editor.... I maan, was our editor. I mean, he's still-the editor, it’s just that we're no longer with the paper " officially. But if we solve jewel robbery, we're gonna get . our jobs back. And we're Pas to solve it. We just don't how quite yet. Wa haven't really devised a game plan. But we have a lot of ideas. See, the trick is going to be....
+1) 67) dialog: {shakes his head) ‘Praid not. Jr Too bad. .You shouldn't leave home without it. Gonzo sinks. exr. LONDON BUS - AFTERNOON. . i. Kermit, Porzie and a lightly soggy Gonzo ride on top of a red double decker bus as it drives through the streets of London in the glittering twilight. . TRAVELING MUSIC is heard, a busy hastle-bustle type theme reminiscent of "An American in Paris*.
+1) 72) dialog: Why not? FOLzie hoe He seemed wanipulative. ete nee
+1) 73) dialog: I liked him. He had a nice voice. Statler and Waldorf ride inside the bus, commenting on some of the famous landmarks at appropriate intervals.
+1) 96) dialog: Happiness Hotel. That's us. (yelling to driver) -Yes! We want the Heppiness Hotel!
+1) 98) dialog: I'm getting a little tired of making crash landings. . . Gorzo I like it. But then, I’m nuts, The exterior of the hotel could be described as ramshackle at best. It looks as out of Place in London as Eva Peron did during her ill-fated visit some years back. If there is a neon sign, letters are missing. If there is a flag, it's torn. If there are windows, most are broken. If there ara @oors, they are warped. Tf the facade is painted, the colors are faded. XxXERQT (reading a chipped sign} “Happiness Hotel. It's weird but it's cheap." Sounds perfect.
+1) 104) dialog: Hi. We'd like a room, please.
+1) 106) dialog: Yeah. We want to check in.
+1) 126) dialog: What are our choices?
+1) 134) dialog: (to Rowlt) I may be mistaken, but the bellhops look like rats.
+1) 159) dialog: (to band} . You guys live here? The other Drum kick ‘Bird lives!
+1) 163) dialog: (to Zoot) What's wrong with the drummer? He looks a little crazed. z00r Yeah, well, he's upset about missing the Monet exhibit at the National Gallery. ~ 4 ~ into instrumental.
+1) 186) text: cur TO: Int. HAPPINESS HOTEL. KERMIT'S ROOM - NIGHT 17. Kermit, Fozzie and Gonzo stand in the middle of their meager living quarters in silence, their luggage ad carelessly on the floor.
+1) 198) dialog: Call room service.
+1) 202) dialog: | Look, why don't we just forget i They all start to get ready for bed. i FOZZIE I sure could use somathing from one or more of the basic food groups. They climb into the bed.
+1) 211) dialog: Can somebody turn out the lights? Bobody can, of course, but after a couple of seconds, the single overhead buib drops out of the eocket, goes out and shatters on the floor. Now, just the dim gas- light from outside the window illuminates the room.
+1) 212) dialog: (continued) (in che semi-darkness) Thanks.
+3) 15) dialog: Excuse me. Where is Lady Holiday's office?
+3) 17) dialog: Thanks. Kermit and Fozzie walk away. Gonzo, taken with the models, turns to watch them. .
+3) 35) dialog: You guys stay here. I'm going te try to talk to Lady Holiday. GONZO. Great. He pushes the elevator button and waits right in front of the closed doors.
+3) 43) text: Could I make my through Break away from the past ‘Til the dreams hava come true And I know they can last Is there somebody new Who'll be there when I'm free . - Could it be ma ~ Could it be ma Mias Piggy sings the final notes of her song. She twirls around, steps up on the desk chair, then the desk itself, as the door cpens and Kermit stands watch- ing. Piggy, unaware she's being observed, hits the last note of the song. The MUSIC ENDS with Miss Piggy standing on the desk, her arms outstretoned. She holds that pose, in silence.
+3) 44) dialog: Excuse me. Miss Piggy reacts with her back to Kermit, thinking fast in an effort to explain her position. ~
+3) 47) text: Miss Piggy has walked off the end of her desk, and fallen into the wastepaper basket, where she lies, stunned and groggy. Kermit rushes to her side.
+3) 48) dialog: Lady Holiday. Lady Holiday, are you all right. From Miss Piggy's semi-conscious point of view, Kermit looks like a green blur as he calls to her.
+3) 49) dialog: (continued) {echo voice) Lady Holiday. Lady holiday. Wake up, Lady Holiday. Finally, Kermit comes into focus, and Miss Piggy can hardly believe her ey Gere is the Prince Charming she's been waiting for...ber dream come true. As bells ring and violins play rockets explode and stardust falls, Miss Piggy falls, too...deeply, hopele: ly, rapturously in love!
+3) 53) dialog: Lady Holiday...are you okay?
+3) 55) dialog: Bo, no, no, it was all my fault. must've startled you. .
+3) 57) dialog: T should have knocked.
+3) 63) dialog: I should have made an appointment. « (MISS PIGGY Are we finished apologizing to each other?
+3) 64) dialog: I think so.
+3) 66) dialog: Oh, sorry. He helps Mi: Piggy out of her unladylike predicament. They stare at each other for a breathless moment.
+3) 69) dialog: I'm Kermit. I've come all the way from America to interview you for the Daily Chronicle. MISS Procy Why me?
+3) 70) dialog: Because you're Lady Holiday.
+3) 72) dialog: So, can we talk?
+3) 74) dialog: I can come back?
+3) 84) dialog: Maybe we could go to dinner.
+3) 88) dialog: at your house. (deat) I'l. bet it's beautiful.
+3) 92) dialog: No, no...where I come from, a gentleman calls for the lady.
+3) 97) dialog: Probably in the city.
+3) 99) dialog: Probably some highbrow street somewhere. MISS PIGGY’ Bighbrow atreet! Absolutely right. Highbrow Street. One~ six-one-seven Highbrow Street. You figured it out, you gorgeous little amphibian. KERMIT“ Oneosix-one-seven Highbrow Street. I'll be there with bells on. Miss Piggy escorts Kermit to the door.
+3) 101) dialog: (confused) What? Miss Piggy opens the door.
+3) 116) dialog: Guess what... I'm having dinner with none other than Lady Holiday, POZzIE (excited) Yeah? When?
+3) 128) dialog: (not worried) You never really lose Gonzo. (calling down open shaft) Gonzo...are you hurt?
+3) 131) dialog: ‘Taxi! A taxi goes right by.
+3) 134) dialog: Oh, yeah. Not at all what I ixpected...nice @ , Sturdy
+3) 137) dialog: Taxil > A third taxi goes by. a: KERMIT i (continued) ; How come the cabs don't stop?
+3) 140) dialog: That's vary effective. Gonzo , . Yeah. It's great when it works. ‘The three Muppets climb into the cab.
+3) 144) dialog: Haven't you ever been there? 30 ' Sure. I live there. I just . don't know how to get there.
+3) 145) dialog: I think it's straight ahead.
+3) 147) dialog: Good. Just keep going straight.
+3) 157) dialog: How come you don’t have an English accent?
+3) 159) dialog: The Happiness Hotel.
+3) 161) dialog: Just keep goin’ straight.
+4) 1) dialog: It’s right up here on the Fight.
+4) 3) dialog: The Happiness Hotel.
+4) 15) dialog: (to Bo) There you go. Keep the change.
+4) 18) dialog: Bowl. (stops) Huh?
+4) 19) dialog: Wrong movie.
+4) 29) dialog: T suggest you make a U turn.
+4) 36) dialog: Sounds delicious... but I'm going out to dinner. \
+4) 38) dialog: (cutting him off) Shh! Don't tell anybody. There could be rival reporters just waiting to gat a scoop on us.
+4) 41) text: py 33. ConrrNueD: 2. ro. : POzziE oh, sorry. 3 § , Don't tell anybody about Kermit's date with Lady Holiday. ‘ Pors i “3 Qoudly) | : Kermit's got a date with Lady Holiday?
+4) 46) text: Kermit and Lady Holiday? Alreet! - | . Honeydew and Beaker appear.
+4) 48) dialog: (exasperated) Might as well telegraph it all over the world.
+4) 62) text: The NEWSMAN pops “p .ftom behind Pop's front desk, microphone in hand, | ‘ NEWSMAN : ' . In the Muppat news tonight, this just in. Kermit to date | : Lady Holiday. Details at eleven. cUT TO: 3. INT. HAPPINESS HOTEL. KERMIT‘'S ROOM - NIGHT 34. Kermit is getting ready for his date. His face is lathered and he is shaving. Forzie watches him long- ingly in the mirror. Gonzo is on the window ledge taking pictures for a story on vertigo.
+4) 63) dialog: I‘m glad you didn't tell anybody where Lady Holiday liva: . othar= wise they'd be camped on her doorstep.
+4) 73) dialog: Me? Whaddaya mean “we'?
+4) 76) dialog: (cutting him off) Me. When I get there. zt 3 my te. Just me. I'm alone. Me and Lady Rolidsy. That's it. Not we. Me.
+4) 78) text: Kermit wipes the excess lather off his face.
+4) 79) dialog: Shaving's fun. I wish I had whiskers. Course then I'd have to use a blade.
+4) 81) dialog: Ian't it eesier to talk to one reporter than it is to two?
+4) 83) dialog: She doesn't even know you.
+4) 85) dialog: That's true...but this is something I've gotta handle alone.
+4) 89) dialog: All right, then... MOBIC. DOWNBEAT. * soe: *STEPPIN' OUT WITHA STAR -4-
+4) 90) dialog: Hey Gimme my cuff links And hand me my tie Just drench me in rich cologne And don't ask me why Go on and pluck me boutoniere I'm movin' up and walkin’ on air Steppin’ out with a star 1 And feelin' high Come polish my wing tips (to Gonzo) I And call for the car
+4) 92) dialog: . I'll sweep her right off her feet £ wherever we are A satin collar and velvet vest I never settle for second bast 8 in‘ out with a star Sad times bya bye
+4) 105) dialog: Just watch my dreams come true This is something I was born to do Steppin' out with a star -. That star is you
+4) 112) dialog: Have I got class
+4) 114) dialog: Have I got chic
+4) 117) dialog: Bye bad times
+4) 124) dialog: Hey good times
+4) 129) dialog: I'm the one on the left. Forzie shakes his head in disbeliaf. FOZZIE . Incredible.
+4) 130) dialog: . {agreeing} . . ‘Tt ds amazing.
+4) 132) dialog: . Two peas in a pod.
+4) 134) dialog: You won't be alone. You've got Gonzo. Gonzo, on the window ledge, trying to get an interest- ing shot of pigeons on the roof, loses his balance and falis.
+4) 147) dialog: Okay...you can go.
+4) 149) dialog: Yeah. But let me do the talicing.
+4) 151) dialog: Tt's got to be very low key. PozzIz You got it. Forzie CROSSES to the door.
+4) 152) dialog: Okay. I'm counting on you. Fozzie Don't worry, Kermit. We won't let you down.
+4) 153) dialog: (vealizing) We? What do you mean "we"? Fozzie opens the door.
+5) 0) text: Miss Piggy opens the door. Kermit stands there, hold- ing a corsage. Behind him, parked at the curb, is Bo in his taxi.
+5) 2) dialog: (hands her corsage) This is for you.
+5) 11) dialog: I've never seen a real live ritzy English house before. MISS PIGGY . Aren't you hungry?
+5) 12) dialog: Sure... but we've got a few minutes. MISS PIGGY _o Okay... let's take a few minutes. She yanks him through the door, then closes it behind hin. Int. HIGHBROW HOUSE COMPOSITE - NIGHT 43. She pulls him'~ with her out of sight of the English couple, who crane their necks trying to see what's going on in their house.
+5) 13) dialog: {rubbing his sore arn) Uh..-nice place you've got here. Greville gets up from the table.
+5) 16) dialog: That guy's following us.
+5) 26) dialog: (looking around) Oh, nice. Did you buy this furniture here in London... Miss Piggy pulls Kermit, in mid-sentence, into another door just as Greville rounds the corner.
+5) 27) dialog: (continued) Whirlwind tour, huh?
+5) 31) dialog: Nice. Dark, but. nice. Greville, opens the door, light pours in on Piggy and Kermit.
+6) 0) text: Kermit and Miss Piggy get comfortable in the back seat of the taxi as Bo starts the engine.
+7) 0) text: It's a beautiful posh, art deco, F. Scott Fitzgeraldish nightclub, decorated entirely in biack and white, with a dance floor in the center and a band dressed in white tails playing Glenn Miller type music. Elegantly dressed Londoners populate the place, save for four strange looking beings at one tabl: Kermit, Forzie, Miss Piggy and Gonzo. Gonzo takes a picture of the waiter, while Kermit and Forzie lock around in awe and Miss Piggy looks at the menu.
+7) 4) dialog: - (looks; gulps) Yikestt
+7) 6) dialog: No, nol (chuckles) It's just kind of amusing that the roast beef is the same price as an Oldsmobile. ‘(then, ina very nervous, . high voica) You...uh, eat here often, Lady Roliday?
+7) 8) dialog: (to himself) Sacre blue! (to Miss Piggy) Excuse me, Lady Holiday.
+7) 14) dialog: (continued then, to Fozzie and Gonzo) You guys got about sixteen ~ oo undred dollars on you? Si. Forze I have a dime in ay loafer. But mom told meto keep it for a phone call.
+7) 15) dialog: How are we going to pay for this?
+8) 0) text: The orchestra plays tasteful dance music as Kermit and Miss Piggy dance among other dancing couples on the dance floor:
+8) 5) dialog: your necklace.,.the one stolen....?
+8) 19) dialog: Yeah, but didn't Fred usually lead?
+9) 0) text: The Dubonnet Orchestra, under the direction of Armando di Fiore sequ into another song. Miss Piggy and Kermit are dancing cheek to cheek and the mood is very romantic. SONG: “THE FIRST TIME IT HAPPENS”
+9) 2) dialog: The first time you see her No magical change No angels appearing No dreams to arrange Just warmer and colder Than springtime or snow The first time it happens you know
+9) 11) text: CUT TOs INT. OUBONNET CLUB. OANCE FLOOR - NIGHT 58. - MISS PIGGY’ I could Just keep on dancing forever. . , KERMIT . IT know. You're wearing me - out. es Kermit in the dust and is now moving
+10) 30) text: Kermit, off to one side, is equally enthralled and “begins to sing. Miss Piggy, dancing her Little heart out, still has time to look ln Kermit’s direction and answers him in sang. Meanwhile, Nicky, has somehow Joinad the end of the chorus line, and shen Hiss Piggy o danc Ltzing around ¢
+11) 2) text: he nee Nicky's falling in love {s not a part of the plan. . Finally, Hiss Piggy is whisked away by another aan, and Micky heads back for the table as the music again ohanges teapo and builds to a finish, possibly eith some high-kicking ala the Rockettes. The entire nightclub audience, including Kermit and Forzie, sways back and forth to the beat. Nicky sits back down, just the number ends, and gives Mar. signal. Marla throws light switch, Plunging the nightclub into total darkness. Confusion reigns, the band stops playing and patrons grumble.
+11) 20) dialog: Lady Holiday? But T thought...
+12) 0) text: A clock on a building continues to strike as Miss Piggy, in the glow of a street lamp, wearing one glass slipper, clomps down the cobblestones and disappears into the fog. CUT Td: Int. HOTEL BATHROOM ~ NIGHT 64. In this small bathroom, in the crimson glow of a light bulb covered with ced cellophane, Gonzo develops pictures in a sink full of developing solution, while Kermit and Fozzie watch. Several pictures of surprised couples in awkward poses already are pinned on a make- shift drying line. FOozzIE (locking at one of the ctures) “PL Thia one's great, Gonzo. You popped the flash just before the soup landed on hig tie.
+12) 8) dialog: We'll be out as soon as we ’ develop these pictures. We're trying to catch a jewel thief.
+12) 10) dialog: (to Gonzo) Hurry up, Gonzo. There's gotta be a picture of somebody taking “Lady Holiday's necklace.
+12) 12) dialog: She wouldn't steal. GONZO. Why not? She lied.
+12) 13) dialog: Two different things. Besidas, she couldn't have stolen-the necklace because she was dancing.
+12) 16) dialog: What's the difference? she didn't steal the necklace!
+12) 25) dialog: Do what? Gonzo , , Pat my head and rub my-stomach at ._ — the same time. He starts to do it.
+12) 27) dialog: Will you guys cut it out! We're wasting time. Gonzo turns back to his work. There is more Loup POUNDING on the door.
+12) 33) dialog: No doubt about it. It's that guy sitting next to Lady Holiday and those girls standing around in the back. .
+13) 7) dialog: (shrugs) Okay, I guess. DISHEVELLED GENT *™ . Penny for your thoughts. -
+13) 14) dialog: (nods) Ags old as the hilis,
+13) 20) dialog: You know....it's amazing. You ara a hundred percent wrong. Not one thing you said was right.
+13) 28) dialog: (a little miffed) Could you just kinda move it? Dishevelled Gentleman rises, shakes his head and moves along.
+13) 31) dialog: I don't know. What are you calling yourself today? Miss Piggy uncovers Kermit's ayes. She stands behind him, locking a bit contrite. MISS PIGGY . . Aw, Karmy. You're not mad at ma, are you?
+13) 32) dialog: You lied to ma. You used me.
+13) 42) dialog: What do you care 1f I'm mad at you? I saw the way you were dancing with that guy last night.
+13) 44) dialog: Well, let me tell you something, Your dancing partner happens to be a jewel thief.
+13) 46) dialog: Don't be silly. I don't have time to be jealous.
+13) 48) dialog: The only thing I'm mad about is how you've been over-acting ever since this movie started.
+13) 52) dialog: You are.
+13) 56) dialog: Tf you can't stand the heat, get out of tha kitchen.
+13) 62) dialog: Yeah. That'll solve everything.
+13) 66) dialog: Okay... listen... Miss Piggy continues to sob.
+13) 67) dialog: (continued) Aw, stop it...
+13) 70) dialog: I quesa I'ma little jealous after all.
+13) 73) dialog: You weren't over-acting.., not all the time anyway.
+13) 78) dialog: Oh, yeah... 80, you're not Lady Holiday,
+13) 80) dialog: Where'ya goin?
+13) 82) dialog: Uh... Miss Piggy.
+13) 84) dialog: (sotto) What about the production number?
+13) 86) dialog: : (sotto) : There's supposed to be a production number now, - .
+13) 88) dialog: Yeah. Could be the prettiest number in the whole movie.
+13) 95) dialog: You and me.
+13) 97) dialog: Pine.. maybe a sprig of fresh flowers pinned delicately to your dress.
+14) 0) text: This is a beautiful romantic duet where Miss Piggy and Kermit serenade each other while riding bicycles through the park. In a MONTAGE of SHOTS as the song continues, Kermit does soma showing off ala Sutch Cassidy riding one-handed, no-handed, on one foot, etc., on two-wheeler: thrae-wheelers, bicycle-built-for-two, etc, - “COULDN'T WE RIDE" ~=8— Pretty day KERMIT Sunny sky Lovely pictures Dance in your eyes
+14) 3) dialog: Couldn't we ride
+14) 13) dialog: Why couldn't we fly
+14) 27) dialog: Just e@ push Just a push And we're on the way . RIGaY And we're an the way
+14) 63) dialog: (continued) Thanks. Kermit EXITS.
+14) 87) text: The lights come up, the orchefera hits the first note of an appropriate fashion theme, and a bevy of models appear from behind the sequined velvet curtaing, wear- ing exquisite summer gowns and drei #, Slinking down the runway to thunderous applause from the audience. Fountains at the end of the runway spew jets of milti- Colored water into the air. Kermit and Fozzie applaud from the press section. Gonzo Pops flash bulbs in people's faces.
+14) 101) text: 90 CONTINUED: 69. There is more applause from everyone, dneluding Kermit and Fozzie.
+14) 103) dialog: Well, I like the flocked silk Waistlet but the trome de l'oeil trim is a little jarring.
+14) 137) text: As Hiss Piggy glides down the runway looking into Kermit' eyes, she begins ta fantasize. and the -entire production appears to have a dream-like quality. Suddenly, “her porkiness" is clad in a one-piece swimsuit ala Esther Williams.
+14) 188) dialog: All the world's ever wanted Was you - A dream come .true
+14) 192) dialog: It's you
+14) 199) dialog: (calling; worried) Miss Piggy, are you okay?
+14) 218) dialog: (as she passes him) Don't worry, Miss Piggy... we'll-get you out of this.
+14) 220) dialog: Soon. ‘ i s 1 t i
+15) 4) dialog: (trying for order) Hold it for a second. Quiet, everybody. Hold it.
+15) 13) text: She stops, seeing that everyone else is staring at her. Finally, Kermit speaks.
+15) 14) dialog: All right. Now 1f we're going to get Misz Piggy out of jail, we going to have to catch those thieves red-handed.
+15) 18) dialog: I'm going to pretend I didn't hear that.
+15) 20) dialog: We're about to embark on a Potentially dangerous mission. There could be physical violence thera could be gunplay. There @ slight chance that some of us could even be killed. $0, if anybody wants out, now is the time to say it.
+15) 54) dialog: Thanks. I knew I could coun on each and every one of you. Now, there's no time to wait. The first thing we have to do is make our plans. Just then, the bed, containing all the Muppets, flies ft
+15) 57) dialog: (muffled) Or, we could get some sleep. The light bulb again crashes to the floor. cor To: INT. JAIL CELL - THE NEXT DAY 78. Miss Piggy, dressed in prison garb, sits alone in her dingy cell, playing a mournful tune on a harmonica. After a few bars, a tough-looking female prisoner (QUEEN ELIZABETH) in the adjacent cell, rattles a tin cup against the bars. °
+17) 11) dialog: (lawyer-like) Please. The name is Rosenthal. (sotto) I'm your attorney. That's the . only way they'd let ma in. : . MISS Pigcy ° - (getting it) Right. I've missed you, Rosenthal. It's been an eternity.
+17) 20) dialog: It's bean forty-five minutes.
+17) 24) dialog: I just want you to know we're -gonna get you out of here. We're gonna catch those thieves red-handed.
+17) 26) dialog: (upset) I don't think now is the time for that type of humor.
+17) 28) dialog: "Yeah, all right. Anyway, just stay put. We've got a plan and we're gonna prove you're innocent. Tomorrow night, precisely at midnight, the thieves are gonna try to steal Lady Holiday's Baseball Diamond from the Mallory Gallery, and we're gonna stop ‘en.
+17) 30) dialog: Me, Fozzie, Gonzo and all our friends from the Happiness Hotel.
+17) 36) dialog: “Big House"...that's prison talk?
+17) 38) dialog: Yeah, well, you may talk tough, Miss Piggy, but onderneath I know you're still the same beautiful, sensitive, vulnerable woman I was with the other night. the one who scarfed down all that caviar.
+17) 74) dialog: Bag of chickens.
+17) 76) dialog: Fake vomit.
+17) 80) dialog: Toothpicks.
+17) 82) dialog: Battery.
+17) 84) dialog: Hot mustard...
+17) 116) dialog: Peanut butter.
+17) 118) dialog: Ckay, forget it. I guess we're all set. They put their hands together.
+19) 0) text: The Happiness Hotel courtesy car clang and clanks and rattles along, laden with all the Muppets and their paraphernalia. . The D r. Teeth Band rides atop the vehicle, playing a reprise of "Night Life" as Kermit tries to quiet then down. . CUT To;
+21) 8) dialog: Okay, Rowlf, give me the blow torch.
+21) 10) dialog: (in frustration) How are we supposed to cut through the bars if nobody brought stuff to cut with?
+21) 12) dialog: (thinking fast) Eat ‘through the bars. Animal!. Come here. Animal appears at Kermit’s side, vearing his “Groucho” mask.
+21) 16) dialog: Animals Keep quiet.
+22) 2) dialog: It's right here on the slip... madium pepperoni, double cheese.
+22) 4) dialog: Somebody here called "Pizza Twins". That's us. The guard reluctantly opens the gate and ties the dogs to a post. Muppets sneak through the gate while Kermit and Foszie keep the guard occupied.
+22) 19) dialog: (locking around) - There's gotta be another way in.
+22) 32) dialog: Whoa, Nellie!it
+22) 41) text: EXT. MALLORY GALLERY ROOF - NIGHT Lie The Muppets are crowded around a skylight in the roof, looking down into the treasure room. Fozzie gives the Kermit “thumbs up" signal. What they see is the largest diamond in the known-world. Encased in glass, in the palm of a velvet catchea! mitt, is the fabulous Baseball Diamon named incauseits facets look like stitches and because the stone itself is the sizeof a Spaulding. The Muppets are mostly impressed.
+22) 45) dialog: Fabulous,
+23) 1) dialog: We wait until they try to steal the diamond, then Gonzo takes their picture.
+23) 21) dialog: (calling order) Quiet! Settle dom. We're not giving up yet. We've come too far.to turn back now. We're just going to have to go down there and capture those thieves red- handed.
+23) 23) dialog: (disgusted, to camara) If frogs could only scream.
+25) 6) dialog: We're just gonna have to improvise. We'll make a ladder out of whatever will hold us. Good idea. Here's the paper towels.
+26) 23) dialog: Second of all, someday you're going to realize that what you're doing is dishonest.
+26) 25) dialog: (astonished) Really?
+26) 30) dialog: I just don't understand why you're @oing this. What can you possibly hope to gain?
+26) 37) dialog: (to Miss Piggy) You were magnificent, Miss Piggy.
+26) 42) dialog: Thanks. .
+26) 49) text: I don't hate you, Micky. It's just that somewhere along the dine I found cut the difference wrong and right. You're wrong... (indicates Kermit} -.eha's right. Nicky nods, Kermit blushes.
+26) 57) dialog: Lady Holiday! Just the person we wanted to see.
+26) 65) dialog: Well, gang, we did it. When the Daily Chronicle hears about this they're gonna roll out the red carpet.
+26) 76) text: The headline in the Daily Chronicle reads "Twins and Pig Foil Heist” and a sub~headline "Thieves caught red-handed”. Tha picture below the headline shows Kermit, Fozzie , and Piggy being congratulated by Lady Holiday. Miss Piggy is the only one looking directly into the camera. PULL BACK to REVEAL Statler and Waldorf reading the paper in the first class section of an airplane.
+26) 96) dialog: They did give us separate cages.
+26) 98) dialog: Not that I know of.
+26) 108) dialog: How close are ve?
+26) 110) dialog: You mean...
+27) 5) dialog: What color is it now? {then, joyously} I did it, I got it in. Didja hear that? I waited and waited and I finally got it ta! What color Whoooie!! is it now?! I did it!
