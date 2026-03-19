@@ -1,5 +1,3 @@
-install.packages(c("tidyr", "dplyr", "stringr", "purrr", "tidytext", "xml2", "tm", "topicmodels"))
-install.packages("reshape2")
 library(reshape2)
 library(tidyr)
 library(dplyr)
@@ -7,6 +5,7 @@ library(stringr)
 library(purrr)
 library(tidytext)
 library(topicmodels)
+library(ggplot2)
 
 # Gender-Daten einlesen und bereinigen
 df_gender <- read.csv("data/character_genders.csv")
@@ -78,9 +77,9 @@ custom_stopwords <- tibble(word = c(
   "walter", "louis", "kevin", "mike", "chris", "mark", "ryan", "matt", "scott",
   "adam", "alex", "carol", "oliver", "claire", "gary", "edward", "sally",
   "richard", "bobby", "audrey", "connie", "larry", "dave", "miles", "jamie",
-  "carter", "lisa", "laura", "andrew", "wendy", "bill", "eddie", "johnny", "martin", "jay", "luke", 
-  "rebecca", "clark", "sara", "daniel", "craig", "ron",
-  "mike", "tony", "andy", "joe", "tim", "rob", "ray"
+  "carter", "lisa", "laura", "andrew", "wendy", "bill", "eddie", "johnny",
+  "martin", "jay", "luke", "rebecca", "clark", "sara", "daniel", "craig", "ron",
+  "tony", "andy", "tim", "rob", "ray"
 ))
 
 # Tokenisieren
@@ -104,6 +103,7 @@ dtm_filtered <- dtm_filtered[rowSums(as.matrix(dtm_filtered)) > 0, ]
 lda_model <- LDA(dtm_filtered, k = 10, control = list(seed = 42))
 terms(lda_model, 10)
 
+# Topic-Zuordnung nach Gender
 topic_assignments <- tidy(lda_model, matrix = "gamma") %>%
   separate(document, into = c("imdb_id", "name"), sep = "_", extra = "merge") %>%
   mutate(imdb_id = as.integer(imdb_id)) %>%
@@ -113,11 +113,7 @@ topic_assignments <- tidy(lda_model, matrix = "gamma") %>%
   summarise(mean_gamma = mean(gamma), .groups = "drop") %>%
   arrange(gender, desc(mean_gamma))
 
-topic_assignments
-
-install.packages("ggplot2")
-library(ggplot2)
-
+# Topic Labels
 topic_labels <- c(
   "1" = "Familienleben/Zuhause",
   "2" = "Kriminalität/Gewalt",
@@ -131,6 +127,7 @@ topic_labels <- c(
   "10" = "Kriminelle Geschäfte/Überfall"
 )
 
+# Plot 1: Alle Topics nach Gender
 topic_assignments %>%
   filter(!topic %in% c(4, 7)) %>%
   mutate(
@@ -149,6 +146,13 @@ topic_assignments %>%
   guides(fill = guide_legend(reverse = TRUE)) +
   theme_minimal()
 
+# Werte Plot 1: Alle Topics nach Gender
+topic_assignments %>%
+  filter(!topic %in% c(4, 7)) %>%
+  arrange(topic, gender)
+
+
+# Plot 2: Gruppierte Topics nach Gender
 topic_assignments %>%
   filter(topic %in% c(1, 2, 3, 5, 6, 10)) %>%
   mutate(
@@ -172,6 +176,7 @@ topic_assignments %>%
   guides(fill = guide_legend(reverse = TRUE)) +
   theme_minimal()
 
+# Werte Plot 2: Gruppierte Topics nach Gender
 topic_assignments %>%
   filter(topic %in% c(1, 2, 3, 5, 6, 10)) %>%
   mutate(
